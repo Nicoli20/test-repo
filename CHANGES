@@ -1,3 +1,9 @@
+Version 0.1.1:
+ - Removed problematic features. Dawg isn't cool anymore. Do not attempt to amend; it's just bad.
+ - Merge branch 'release-0.1.0'
+ - Testing the bumping of the version.
+ - Added VERSION and CHANGES files, Version bump to v0.1.0
+
 Version 0.1.0
  - Attempt to add versioning to project.
  - Merge branch 'three-dee' into develop

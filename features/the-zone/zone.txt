@@ -1,0 +1,1 @@
+There are two zones. The zones are named light and dark. The goal of each user is to take over the opponent's zones.
